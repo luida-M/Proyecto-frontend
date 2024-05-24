@@ -14,8 +14,8 @@ body{
 
 
 .header {
-  background-color: #120c68;
-  height: 130px;
+  background-color: rgb(9, 9, 78);
+  height: 200px;
   width: 100%;
   top: 0;
   left: 0;
@@ -55,7 +55,7 @@ body{
 .nav-menu-link:hover,
 .nav-menu-link_active {
  
-  color: #83c5f7;
+  color: #094675;
   transition: 0.5s;
 }
 
@@ -208,7 +208,7 @@ footer {
 
   /* Header */
   .header{
-      background-color: #120c68;
+      background-color: rgb(9, 9, 78);
       height: 130px;
       z-index: 1;
       position: fixed;
@@ -225,7 +225,7 @@ footer {
       flex-direction: column;
       align-items: center;
       margin: 0;
-      background-image: linear-gradient(rgba(110, 110, 158, 0.8),rgba(0.3,0.5,0.8,8));
+      background-image: linear-gradient(to right , rgb(9, 9, 78), rgb(15, 14, 14));
       position: fixed;
       top: 80px;
       width: 100%;
@@ -304,6 +304,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
   padding: 30px;
 }
 
@@ -326,6 +327,8 @@ footer {
   padding: 5px 20px 10px 20px;
   font-size: 1.2rem;
   width: 100%;
+  text-align: center;
+  justify-content: center;
   
 }
 
@@ -390,7 +393,7 @@ footer {
 
 @media (min-width: 672px) and (max-width:900px){
   .header{
-    background-color: #120c68;
+    background-color: rgb(9, 9, 78);
     height: 130px;
     width: 100%;
       top: 0;
@@ -559,7 +562,7 @@ footer {
 
 
 .header{
-    background-color: #3c31dd;
+    background-color: rgb(9, 9, 78);
     height: 130px;
     width: 100%;
       top: 0;
