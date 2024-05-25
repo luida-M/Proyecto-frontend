@@ -21,7 +21,9 @@ body{
   left: 0;
   z-index: 1;
 }
-
+.tituloprincipal{
+  font-size: 100px;
+}
 .nav {
   display: flex;
   justify-content: space-between;
