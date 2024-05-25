@@ -525,7 +525,7 @@ footer {
     height: auto;
     margin: auto;
     overflow: hidden;
-    padding-top: 100px;
+    padding-top: 50px;
 }  
 
 .slider .slider-track{
@@ -536,7 +536,7 @@ footer {
 }
 
 .slide{
-    padding: 20px
+    padding: 100px
 }
 
 
