@@ -174,7 +174,7 @@ footer {
 @media (max-width: 768px) {
   .contact-form, .contact-info {
       flex: 1 1 100%;
-      margin: 10px 0;
+      margin: 0 10px;
   }
 }
 
