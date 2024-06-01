@@ -346,6 +346,8 @@ footer {
   display: flex;
   align-items: center;
   flex-direction: column;
+  width: 100vw;
+  margin: 0 auto;
 }
 
 .caja-quienesSomos p{
