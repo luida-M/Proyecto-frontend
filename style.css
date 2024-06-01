@@ -535,7 +535,7 @@ footer {
     display: flex;
     animation: scroll 30s linear infinite;
     -webkit-animation:scroll 30s linear infinite ;
-    width: calc(200px * 12);
+    width: calc(200px * 14);
 }
 
 .slide{
