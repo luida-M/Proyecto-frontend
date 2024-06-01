@@ -693,7 +693,7 @@ footer {
 .slider{
     width: 100vw;
     height: auto;
-    margin: auto;
+    margin: 0 auto;
     overflow: hidden;
     padding-top: 50px;
 }  
