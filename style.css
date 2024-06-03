@@ -15,8 +15,8 @@ body{
 
 .header {
   background-color: rgb(9, 9, 78);
-  height: 50px;
-  width: 100%;
+  height: 210px;
+  width: 85%;
   top: 0;
   left: 0;
   z-index: 1;
@@ -78,11 +78,6 @@ body{
 h1 {
   text-align: center;
 }
-
-/* Espacio entre el título y el iframe 
-.espacio {
-  margin-top: 20px;
-}*/
 
 /* Footer */
 
