@@ -376,7 +376,7 @@ footer {
   animation: scroll 30s linear infinite;
   -webkit-animation:scroll 30s linear infinite ;
   width: calc(100px * 12);
-  width: 75vw;
+  width: 60vw;
 }
 
 .slide{
