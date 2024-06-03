@@ -73,7 +73,8 @@ body{
   cursor: pointer;
 }
 
-/* Estilos para centrar el título */
+/*iFRAME */
+.CV-ATS
 h1 {
   text-align: center;
 }
@@ -261,10 +262,10 @@ footer {
     .nav-menu-item {
       line-height: 70px;
       font-size: 18px;
-  margin: 0 10px;
-  line-height: 80px;
-  text-transform: uppercase;
-  width: max-content;
+     margin: 0 10px;
+     line-height: 80px;
+     text-transform: uppercase;
+     width: max-content;
     }
   
     .nav-menu-link:hover,
